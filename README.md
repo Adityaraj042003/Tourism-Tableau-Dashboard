@@ -5,11 +5,6 @@ Tourism Growth &amp; Economic Impact Analysis Dashboard
 ## 📊 Dashboard Tool
 - Tableau
 
-## 📁 Files Included
-- Aditya Raj_TableauDashboard_Tourism.twbx
-- Dashboard PDF
-- Dashboard PNG
-
 ## 📌 Key Insights
 - Tourist growth trends over time
 - Season-wise revenue and profit analysis
